@@ -14,3 +14,4 @@ LeetCode Solutions
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](./python/876_Middle_of_the_Linked_List.py)|Easy|
 |NEW| Counting Elements | [Python](./python/new_Counting_Elements.py)|Easy|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./python/002_Add_Two_Numbers.py)|Medium|
+|NEW| Min Stack | [Python](./python/new_Min_Stack.py)|Medium|
