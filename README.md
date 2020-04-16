@@ -12,6 +12,8 @@ LeetCode Solutions
 |283|[Move Zeros](https://leetcode.com/problems/move-zeroes/) | [Python](./python/283_Move_Zeros.py)|Easy|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Python](./python/844_Backspace_String_Compare.py)|Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](./python/876_Middle_of_the_Linked_List.py)|Easy|
+|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python](./python/1046_Last_Stone_Weight.py)|Easy|
 |NEW| Counting Elements | [Python](./python/new_Counting_Elements.py)|Easy|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./python/002_Add_Two_Numbers.py)|Medium|
 |NEW| Min Stack | [Python](./python/new_Min_Stack.py)|Medium|
+ 
