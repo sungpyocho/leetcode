@@ -13,6 +13,10 @@ LeetCode Solutions
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Python](./python/844_Backspace_String_Compare.py)|Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](./python/876_Middle_of_the_Linked_List.py)|Easy|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python](./python/1046_Last_Stone_Weight.py)|Easy|
+|1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [JavaScript](./javascript/1108_Defanging_an_IP_Address.py)|Easy|
+|1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](./python/1108_Defanging_an_IP_Address.py)|Easy|
+|1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Python](./python/1342_Number_of_Steps_to_Reduce_a_Number_to_Zero.py)|Easy|
+|1431|[Kids With the Greates Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python](./python/1431_Kids_With_the_Greatest_Number_of_Candies.py)|Easy|
 |NEW| Counting Elements | [Python](./python/new_Counting_Elements.py)|Easy|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./python/002_Add_Two_Numbers.py)|Medium|
 |NEW| Min Stack | [Python](./python/new_Min_Stack.py)|Medium|
