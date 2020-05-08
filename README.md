@@ -15,7 +15,11 @@ LeetCode Solutions
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python](./python/1046_Last_Stone_Weight.py)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [JavaScript](./javascript/1108_Defanging_an_IP_Address.py)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](./python/1108_Defanging_an_IP_Address.py)|Easy|
+|1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Python](./python/1313_Decompress_Run-Length_Encoded_List.py)|Easy|
+|1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [JavaScript](./javascript/1313_Decompress_Run-Length_Encoded_List.js)|Easy|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Python](./python/1342_Number_of_Steps_to_Reduce_a_Number_to_Zero.py)|Easy|
+|1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Python](./python/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number.py)|Easy|
+|1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [JavaScript](./javascript/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number.js)|Easy|
 |1431|[Kids With the Greates Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python](./python/1431_Kids_With_the_Greatest_Number_of_Candies.py)|Easy|
 |NEW| Counting Elements | [Python](./python/new_Counting_Elements.py)|Easy|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./python/002_Add_Two_Numbers.py)|Medium|
