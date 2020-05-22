@@ -16,6 +16,7 @@ LeetCode Solutions
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [JavaScript](./javascript/1108_Defanging_an_IP_Address.py)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](./python/1108_Defanging_an_IP_Address.py)|Easy|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Python](./python/1221.py)|Easy|
+|1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Python](./python/1290.py)|Easy|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Python](./python/1295_Find_Numbers_with_Even_Number_of_Digits.py)|Easy|
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Python](./python/1313_Decompress_Run-Length_Encoded_List.py)|Easy|
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [JavaScript](./javascript/1313_Decompress_Run-Length_Encoded_List.js)|Easy|
