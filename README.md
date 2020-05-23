@@ -23,6 +23,7 @@ LeetCode Solutions
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Python](./python/1342_Number_of_Steps_to_Reduce_a_Number_to_Zero.py)|Easy|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Python](./python/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number.py)|Easy|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [JavaScript](./javascript/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number.js)|Easy|
+|1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) | [Python](./python/1370.py)|Easy|
 |1431|[Kids With the Greates Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python](./python/1431_Kids_With_the_Greatest_Number_of_Candies.py)|Easy|
 |NEW| Counting Elements | [Python](./python/new_Counting_Elements.py)|Easy|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./python/002_Add_Two_Numbers.py)|Medium|
